@@ -1,0 +1,8 @@
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\bin\Debug\GiftCertProTest.dll
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\bin\Debug\GiftCertProTest.pdb
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\obj\Debug\GiftCertProTest.csprojResolveAssemblyReference.cache
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\obj\Debug\GiftCertProTest.dll
+C:\Users\James\documents\visual studio 2012\Projects\GiftCertPro\GiftCertProTest\obj\Debug\GiftCertProTest.pdb
