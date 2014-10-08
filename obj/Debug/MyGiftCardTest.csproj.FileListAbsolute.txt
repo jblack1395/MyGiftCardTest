@@ -5,3 +5,11 @@ C:\Users\James\Documents\Visual Studio 2012\Projects\GiftCertPro\GiftCertProTest
 C:\Users\James\Documents\Visual Studio 2012\Projects\GiftCertPro\GiftCertProTest\bin\Debug\Newtonsoft.Json.xml
 C:\Users\James\Documents\Visual Studio 2012\Projects\GiftCertPro\GiftCertProTest\obj\Debug\GiftCertProTest.dll
 C:\Users\James\Documents\Visual Studio 2012\Projects\GiftCertPro\GiftCertProTest\obj\Debug\GiftCertProTest.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\GiftCertProTest.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\GiftCertProTest.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\obj\Debug\MyGiftCardTest.csprojResolveAssemblyReference.cache
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\obj\Debug\GiftCertProTest.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\obj\Debug\GiftCertProTest.pdb
