@@ -13,3 +13,15 @@ C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\b
 C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\obj\Debug\MyGiftCardTest.csprojResolveAssemblyReference.cache
 C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\obj\Debug\GiftCertProTest.dll
 C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\obj\Debug\GiftCertProTest.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\GiftCertProTest.dll.config
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\EntityFramework.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\MySql.Data.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\EntityFramework.xml
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\MyGiftCard.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\Unity.Wcf.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\Microsoft.Practices.Unity.dll
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\MyGiftCard.pdb
+C:\Users\James\Documents\Visual Studio 2012\Projects\MyGiftCard\MyGiftCardTest\bin\Debug\Microsoft.Practices.Unity.xml
